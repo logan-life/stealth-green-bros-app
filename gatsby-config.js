@@ -9,7 +9,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Logan's single serving application site for the stealth green bros project`,
+    siteTitle: "Logan",
+    siteTitleAlt: `Logan Ayliffe - Stealth Green Bros. Project App`,
+    siteHeadline: "Logan Ayliffe - Stealth Green Bros. Project App",
+    siteUrl: "https://www.stealthgreenbrosprojectproductleadcofounder.com/",
+    siteDescription:
+      "One-page react app to supplement my inital application for the position.",
+    siteLanguage: "en",
+    author: "@logan_ayliffe",
   },
   plugins: [
     {
