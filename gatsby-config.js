@@ -14,7 +14,7 @@ module.exports = {
     siteHeadline: "Logan Ayliffe - Stealth Green Bros. Project App",
     siteUrl: "https://www.stealthgreenbrosprojectproductleadcofounder.com/",
     siteDescription:
-      "One-page react app to supplement my inital application for the position.",
+      "Hi Hank! I think we're looking for each other - let's talk!",
     siteLanguage: "en",
     author: "@logan_ayliffe",
   },
