@@ -17,6 +17,7 @@ module.exports = {
       "Hi Hank! I think we're looking for each other - let's talk!",
     siteLanguage: "en",
     author: "@logan_ayliffe",
+    siteImage: "/banner.jpg",
   },
   plugins: [
     {
