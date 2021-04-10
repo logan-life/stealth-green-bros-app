@@ -14,7 +14,7 @@ module.exports = {
     siteHeadline: "Logan Ayliffe - Stealth Green Bros. Project App",
     siteUrl: "https://www.stealthgreenbrosprojectproductleadcofounder.com/",
     siteDescription:
-      "Hi Hank! I think we're looking for each other - let's talk!",
+      "Hi Hank! I think we might be looking for each other - let's talk!",
     siteLanguage: "en",
     author: "@logan_ayliffe",
     siteImage: "/banner.jpg",
